@@ -1,4 +1,5 @@
 =begin
+
 A lambda and a proc are pretty similar, basically it is just some code between {}
 or do-end and can be passed to methods like .each, .select (A lambda and a proc is a saved block)
 But there is 2 main differences between the the lambda and the proc.
