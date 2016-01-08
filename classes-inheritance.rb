@@ -22,14 +22,14 @@ class Human
   end
 
   def run
-    puts "I am running"
+    puts "I'm running"
   end
 end
 
 
 class Ninja < Human
   def fight
-    puts "I am fighting!"
+    puts "I'm fighting!"
   end
 
   def run
