@@ -1,17 +1,8 @@
 =begin
-Ohh, the good old inject method. I never understood this one, until now.
-I'm going to show you one single example of inject, if you want to know more,
-which I encourage you to do, you should go over to this website:
-http://blog.jayfields.com/2008/03/ruby-inject.html there is a great article on
-inject.
 
-The most common use of inject is using it like I do in the first example.
-In my example I have an array of sides from a square, then I call inject on it
-with a start value of 0 "(0)". In the next example I give it a starting value
-of 10, which then return 26.
-
-As I said, visit this site to learn it in and out:
-http://blog.jayfields.com/2008/03/ruby-inject.html
+I'm going to show you a few examples of inject, but you should check out
+the website I have linked as it explains it way better than I can do here.
+Here is a link: http://blog.jayfields.com/2008/03/ruby-inject.html
 
 =end
 
